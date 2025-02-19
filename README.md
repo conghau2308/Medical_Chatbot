@@ -21,6 +21,7 @@ pip install -r requirements.txt
 *** Tạo API_KEY cá nhân của PINECONE và GROQ trong file .env ***
 
 PINECONE_API_KEY = "your_pinecone_api_key"
+
 GROQ_API_KEY = "your_groq_api_key"
 
 ## Bước 3:
