@@ -1,4 +1,3 @@
-
 system_prompt = (
     "You are an assistant for question-answering task. "
     "Use the following pieces of retrived context to answer "
